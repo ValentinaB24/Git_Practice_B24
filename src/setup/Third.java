@@ -8,4 +8,7 @@ public class Third {
 
     // next line
     //some more code
+
+    // run a loop here
+    //main method
 }
